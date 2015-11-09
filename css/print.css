@@ -1,0 +1,24 @@
+* {
+color: black;
+background: transparent;
+font-size: 14pt;
+font-family: serif;
+}
+
+{ footer: black;
+font-size: 14pt;
+font-family: serif;
+}
+
+a:visited {
+    color: #ccc;
+}
+
+a:hover {
+    color: rgb(199,151,202); /* light plum */
+}
+
+a:active {
+    color: rgb(245,172,249); /* bubble gum */
+}
+

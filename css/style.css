@@ -1,9 +1,154 @@
 /* css-layout stylesheet */
-@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
 
 body{
-font-family: 'Poiret One', cursive;
+background: url("../img/floral.png");
+font-family: 'Open Sans Condensed', sans-serif;
 color: #222;
-font-weight: 200;
+font-weight: 100;
 font-size: 13px;
 }
+
+#container {
+    background: rgba(255, 255 ,255 ,0.5); /* white */
+    border: 2px dotted #166;
+    width: 900px;
+    margin: 0 auto; 
+    padding: 2em; 
+}
+
+#about {
+    height: 200px;
+    width: 800px;
+    background-color: snow;
+    margin-right;
+    font-size: 18px;
+    color: fuchsia;
+}
+
+
+
+
+img {
+    border: 1px solid #166;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
+#nav {
+  padding-bottom: 1em;
+  border-bottom: 3px solid #ccc;
+  margin-bottom: 1em;
+  font-style: bold;
+  font-weight: 600;
+    font-size: 13pt;
+}
+
+nav ul {
+  display: inline;
+  list-style-type: none;
+  padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 30px;
+    text-align: center;
+}
+
+
+header h1 {
+    font-size: 250%;
+    font-weight: 500;
+
+}
+
+h2 {
+    height: 50%;
+    width: 50%;
+    background-color: azure;
+    text-align: justify;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 800;
+    margin-right;
+}
+
+h3 {
+  padding-bottom: 0em;
+  font-style: bold;
+  font-weight: 700
+}
+
+h3 ul {
+display: inline;
+list-style-type: none;
+padding: 0;
+}
+
+h3 ul li {
+  display: block;
+  margin-right: 0em;
+}
+
+education ul
+experience ul
+involvement ul
+skills ul
+
+#text {
+    margin-left: 100px;
+}
+
+#sidebar {
+    float: left;
+    width: 500pt;
+}
+
+aside {
+    float: left;
+    margin-left: 0.5em;
+}
+
+
+aside th {
+    text-align: center;
+    
+}
+
+aside th,
+aside td {
+    padding: 0 2em ; 
+}
+
+table {
+    margin-top: 1em;
+    border-top: 1px solid #166;
+    border-left: 1px solid #166;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+}
+
+
+th, 
+td {
+    font-size: 14px;
+    border-bottom: 1px solid #166;
+    border-right: 1px solid #166;
+}
+
+footer {
+  color: #222;
+  border-top: 2px solid #abf;
+  clear: both;
+  padding: 3;
+font-size: 16px;
+text-align: center;
+
+}
+
+footer p {
+    margin: 1em;
+}
+
