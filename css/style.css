@@ -12,7 +12,7 @@ font-size: 13px;
 #container {
     background: rgba(255, 255 ,255 ,0.5); /* white */
     border: 2px dotted #166;
-    width: 900px;
+    width: 800px;
     margin: 0 auto; 
     padding: 2em; 
 }
@@ -20,18 +20,19 @@ font-size: 13px;
 #about {
     height: 180px;
     width: 800px;
-    background-color: snow;
+    background-color: azure;
     margin-right;
-    font-size: 18px;
+    font-size: 20px;
     color: darkcyan;
-    font-weight: bold;
-    text-align: justify;
+    font-weight: lighter;
+    text-align: center;
+    padding-left: 1em;
 }
 
 img {
     border: 1px solid #166;
     float: left;
-    margin-right: 1em;
+    margin-right: 1.2em;
     margin-bottom: 1em;
 }
 
