@@ -18,16 +18,15 @@ font-size: 13px;
 }
 
 #about {
-    height: 200px;
+    height: 180px;
     width: 800px;
     background-color: snow;
     margin-right;
     font-size: 18px;
-    color: fuchsia;
+    color: darkcyan;
+    font-weight: bold;
+    text-align: justify;
 }
-
-
-
 
 img {
     border: 1px solid #166;
@@ -43,6 +42,7 @@ img {
   font-style: bold;
   font-weight: 600;
     font-size: 13pt;
+    
 }
 
 nav ul {
@@ -138,11 +138,15 @@ td {
     border-right: 1px solid #166;
 }
 
+Miami Sunset {
+    align-content: center;
+}
+
 footer {
-  color: #222;
+  color: #635;
   border-top: 2px solid #abf;
   clear: both;
-  padding: 3;
+  padding: 2;
 font-size: 16px;
 text-align: center;
 
