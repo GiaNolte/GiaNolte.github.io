@@ -33,6 +33,10 @@ img {
     margin-bottom: 1em;
 }
 
+img.no-border {
+    border: 0;
+}
+
 img.medium {
     width: 235px;
     height: 235px;
