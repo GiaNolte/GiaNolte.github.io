@@ -42,20 +42,20 @@ img {
   margin-bottom: 1em;
   font-style: bold;
   font-weight: 600;
-    font-size: 13pt;   
+    font-size: 13pt;
 }
 
 nav ul {
   display: inline;
   list-style-type: none;
   padding: 0;
-    text-align: center;
+text-align: center;
 }
 
 nav ul li {
   display: inline;
   margin-right: 30px;
-    text-align: center;
+text-align: center;
 }
 
 
