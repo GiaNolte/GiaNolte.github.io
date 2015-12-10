@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+
+body{
+background: url("../img/yellow.gif");
+font-family: 'Amatic SC', cursive;
+color: black;
+text-align: center;
+font-weight: 800;
+font-size: 22px;
+}
+
+#container {
+    background: rgba(255, 255 ,255 ,.55); /* white */
+    width: 800px;
+    margin: 0 auto; 
+    padding: 1.5em; 
+}
+
+#about {
+    height: 180px;
+    width: 800px;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: left;
+    padding-left: 1em;
+}
+
+
+img {
+    border: 2px solid #222;
+    float:left;
+    margin-right: 1.2em;
+    margin-bottom: 1em;
+}
+
+img.medium {
+    width: 235px;
+    height: 235px;
+}
+
+
+.column1of2 {
+    float: left;
+    margin-left: 10px;
+}
+
+.column2of2 {
+    float: right;
+    margin-right: 10px;
+
+}
+
+#nav {
+  padding-bottom: 1em;
+  border-bottom: 3px solid #ccc;
+  margin-bottom: 1em;
+  font-style: bold;
+  font-weight: 600;
+font-size: 20pt;
+}
+
+nav ul {
+  display: inline;
+  list-style-type: none;
+  padding: 0;
+
+}
+
+a {
+    color: black; 
+}
+
+a:visited {
+    color: darkmagenta;
+}
+
+a:hover {
+    color: pink; 
+}
+
+a:active {
+    color: hotpink; 
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 30px;
+text-align: center;
+}
+
+
+
+footer {
+color: black;
+border-top: 2px solid #ccc;
+clear: both;
+font-size: 22px;
+text-align: center;
+
+}
+
+footer p {
+    margin: 0px;
+}
+

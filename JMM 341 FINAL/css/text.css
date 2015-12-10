@@ -1,0 +1,9 @@
+#nav
+
+a: hover {
+    color: bisque
+}
+
+a: active {
+    color: aqua
+}
