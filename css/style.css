@@ -17,7 +17,7 @@ font-size: 22px;
 }
 
 #about {
-    height: 180px;
+    height: 450px;
     width: 800px;
     font-size: 22px;
     font-weight: 700;
@@ -42,7 +42,15 @@ img.medium {
     height: 235px;
 }
 
+.Logo {
+    border: 0;
+   float: inherit;
+    padding-bottom: -1em;
+}
 
+.Social {
+    align-self: auto;
+}
 .column1of2 {
     float: left;
     margin-left: 10px;
