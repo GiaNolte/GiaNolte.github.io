@@ -57,7 +57,7 @@ img.medium {
 .column1of2 {
     float: left;
     margin-left: 10px;
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Open Sans Condensed', sans-serif;
 
 }
@@ -65,7 +65,7 @@ img.medium {
 .column2of2 {
     float: right;
     margin-right: 10px;
-    font-size: 16px; 
+    font-size: 18px; 
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
