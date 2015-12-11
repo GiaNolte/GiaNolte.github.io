@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 
 body{
 background: url("../img/yellow.gif");
@@ -18,12 +19,14 @@ font-size: 22px;
 
 #about {
     height: 450px;
-    width: 800px;
-    font-size: 22px;
+    width: 780px;
+    font-size: 18px;
     font-weight: 700;
     text-align: left;
     padding-left: 1em;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
+
 
 
 img {
@@ -54,14 +57,23 @@ img.medium {
 .column1of2 {
     float: left;
     margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+
 }
 
 .column2of2 {
     float: right;
     margin-right: 10px;
-
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+}
+    
 #nav {
   padding-bottom: 1em;
   border-bottom: 3px solid #ccc;
