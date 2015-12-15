@@ -1,17 +1,19 @@
+/* Stylesheet for Mobile- 320px max */
+
+
 @media (max-width: 320px) {
-@media only screen and (max-width= 320px) {
     
 body {
 position: absolute;
 background-color: rgba(255, 255 ,255 ,.55);
-max-width: 320px;
-    font-size: 16px;
+font-size: 19px;
   }
 }
     
-#nav {
-font-size: 15px;
-width: 280px;
+#navbar {
+    width: 200px;
+    height: 80px;
+font-size: 23px;
 list-style-type: none;
     
 }
