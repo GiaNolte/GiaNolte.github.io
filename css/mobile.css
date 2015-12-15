@@ -10,8 +10,10 @@ max-width: 320px;
 }
     
 #nav {
-font-size: 20pt;
+font-size: 15px;
 width: 280px;
+list-style-type: none;
+    
 }
     
   #container {
@@ -37,14 +39,14 @@ width: 280px;
 
 .Logo {
     border: 0;
-    float: inherit;
+float: inherit;
     width: auto;
     vertical-align: middle;
 }
 
-  img {
-   width: auto;
-      height: auto;
+  img.Profile {
+   width: 10px;
+    height: 10px;
     vertical-align: middle;
   }
 
