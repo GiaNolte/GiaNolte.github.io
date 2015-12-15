@@ -2,13 +2,18 @@
 
   body {
     font-family: sans-serif;
-    font-size: 24px;
+    font-size: 20px;
+    display: inline;
+      max-width: 320px;
   }
 
-  p, address {
-    line-height: 1.5;
-  }
+    
+#nav {
+font-size: 20pt;
 
+}
+    
+    
   #container {
     border: 0;
     max-width: 320px;
@@ -16,6 +21,11 @@
     padding: 0.5em;
   }
 
+    #about {
+    max-width: 320px;
+    font-size: 35px;
+    }
+        
  h2 {
     font-size: 125%;
     line-height: 1.5;
@@ -25,12 +35,19 @@
     display: inline;
   }
 
+.Logo {
+    border: 0;
+    float: inherit;
+    padding-bottom: -1em;
+}
+
   img {
     width: 24px;
     height: auto;
     vertical-align: middle;
   }
 
+    
 
 
   footer p {
