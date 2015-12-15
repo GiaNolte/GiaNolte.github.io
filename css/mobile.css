@@ -10,15 +10,12 @@
     
 #nav {
 font-size: 20pt;
-
 }
-    
     
   #container {
     border: 0;
     max-width: 320px;
-    margin: 0;
-    padding: 0.5em;
+    margin: 0 auto;
   }
 
     #about {
@@ -38,7 +35,7 @@ font-size: 20pt;
 .Logo {
     border: 0;
     float: inherit;
-    padding-bottom: -1em;
+    resize: 
 }
 
   img {
@@ -46,8 +43,6 @@ font-size: 20pt;
     height: auto;
     vertical-align: middle;
   }
-
-    
 
 
   footer p {
