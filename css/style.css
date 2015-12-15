@@ -36,6 +36,7 @@ img {
     float:left;
     margin-right: 1.2em;
     margin-bottom: 1em;
+
 }
 
 img.no-border {
@@ -120,7 +121,10 @@ nav ul li {
 text-align: center;
 }
 
-
+iframe {
+  width: 600px;
+  height: 337px;
+}
 
 footer {
 color: black;
