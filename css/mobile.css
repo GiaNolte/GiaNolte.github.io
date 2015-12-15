@@ -10,10 +10,11 @@ body {
     display: inline-block;
     text-align: center;
     font-size: 100px;
+    width: 320ox;
   }
 }
     
-#navbar {
+#nav {
     width: 200px;
     height: 80px;
 font-size: 23px;
@@ -22,7 +23,7 @@ list-style-type: none;
 }
     
   #container {
-    width: 280px;
+    width: 320px;
     padding: 1px;
   }
 
