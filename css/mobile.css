@@ -9,9 +9,7 @@ body {
     color: black;
     display: inline-block;
     text-align: center;
-    font-size: 140px;
-    width: 320px;
-    height: 568px;
+    font-size: 100px;
   }
 }
     
@@ -24,7 +22,7 @@ list-style-type: none;
 }
     
   #container {
-    width: 320px;
+    width: 280px;
     padding: 1px;
   }
 
