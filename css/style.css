@@ -63,20 +63,7 @@ img.medium {
 }
 
 
-.column1of2 {
-    float: left;
-    margin-left: 10px;
-    font-size: 20px;
-    font-family: 'Open Sans Condensed', sans-serif;
 
-}
-
-.column2of2 {
-    float: right;
-    margin-right: 10px;
-    font-size: 20px; 
-    font-family: 'Open Sans Condensed', sans-serif;
-}
 
 h2 {
     font-family: 'Amatic SC', cursive;
