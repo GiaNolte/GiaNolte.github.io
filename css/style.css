@@ -15,15 +15,17 @@ font-size: 22px;
     width: 800px;
     margin: 0 auto; 
     padding: 1em; 
+   
 }
 
 #about {
-    height: 450px;
+    height: 390px;
     width: 780px;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 700;
     text-align: left;
     padding-left: 1em;
+    padding-bottom: 1em;
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
@@ -38,7 +40,10 @@ img {
 
 img.no-border {
     border: 0;
+    height=450px;
+    width=370px;
 }
+
 
 img.medium {
     width: 235px;
@@ -129,4 +134,7 @@ padding-top: 1em;
 footer p {
     margin: 1px;
 }
+
+    
+    
 
